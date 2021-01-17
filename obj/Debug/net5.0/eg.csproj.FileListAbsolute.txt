@@ -1,0 +1,16 @@
+/home/arvydas/Projects/eg/bin/Debug/net5.0/eg
+/home/arvydas/Projects/eg/bin/Debug/net5.0/eg.deps.json
+/home/arvydas/Projects/eg/bin/Debug/net5.0/eg.runtimeconfig.json
+/home/arvydas/Projects/eg/bin/Debug/net5.0/eg.runtimeconfig.dev.json
+/home/arvydas/Projects/eg/bin/Debug/net5.0/eg.dll
+/home/arvydas/Projects/eg/bin/Debug/net5.0/ref/eg.dll
+/home/arvydas/Projects/eg/bin/Debug/net5.0/eg.pdb
+/home/arvydas/Projects/eg/obj/Debug/net5.0/eg.csprojAssemblyReference.cache
+/home/arvydas/Projects/eg/obj/Debug/net5.0/eg.GeneratedMSBuildEditorConfig.editorconfig
+/home/arvydas/Projects/eg/obj/Debug/net5.0/eg.AssemblyInfoInputs.cache
+/home/arvydas/Projects/eg/obj/Debug/net5.0/eg.AssemblyInfo.cs
+/home/arvydas/Projects/eg/obj/Debug/net5.0/eg.csproj.CoreCompileInputs.cache
+/home/arvydas/Projects/eg/obj/Debug/net5.0/eg.dll
+/home/arvydas/Projects/eg/obj/Debug/net5.0/ref/eg.dll
+/home/arvydas/Projects/eg/obj/Debug/net5.0/eg.pdb
+/home/arvydas/Projects/eg/obj/Debug/net5.0/eg.genruntimeconfig.cache
